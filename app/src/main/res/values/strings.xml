@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="calendar">Calendar</string>
+    <string name="summary">Summary</string>
+    <string name="notes">Notes</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="date">May 13, 2023</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="total">Total</string>
+    <string name="zero">0.0</string>
+    <string name="trans">Transaction</string>
+    <string name="stats">Stats</string>
+    <string name="accounts">Accounts</string>
+    <string name="more">More</string>
+    <string name="add">Add button</string>
+    <string name="search">Search</string>
+    <string name="star">Star</string>
+    <string name="business">Business</string>
+    <string name="cash">Cash</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_date">Select Date</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="account">Account</string>
+    <string name="note">Note</string>
+    <string name="saveT">Save Transaction</string>
+    <string name="bank">Bank</string>
+</resources>
